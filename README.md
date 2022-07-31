@@ -1,1 +1,4 @@
-# project-Simple-bit-of-money-to-achieve
+# 项目名称
+用go 语言实现一个简单的区块链项目
+
+# 项目
